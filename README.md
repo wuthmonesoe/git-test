@@ -2,5 +2,5 @@
 Testing for students
 
 # Instillation
-+ = npm install blanla
-+ = import blabla from blabla
++  npm install blanla
++  import blabla from blabla
